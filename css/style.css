@@ -1,0 +1,50 @@
+.container {
+    height: 300px;
+    width: auto;
+    display: block;
+    text-align: center;
+}
+.logo {
+    height: 113px;
+}
+.box {
+    float: left;
+}
+.font {
+    font-size: 13px;
+}
+.block1 {
+    display: block;
+    background-color: rgb(238, 238, 238);
+    width: 90%;
+    margin:auto;
+    margin-top: 3px;
+}
+.block2 {
+    width: 90%;
+    margin: auto;
+    margin-top: 2px;
+}
+.mblock1 {
+    height: 80px;
+    background: rgb(126, 229, 218);
+    width: 37%;
+}
+.mb1text {
+    padding: 3%;
+}
+.mb2text {
+    padding: 4%;
+}
+.mblock2 {
+    height: 80px;
+    background: rgb(112, 204, 194);
+    width: 19%;
+}
+.mblock3 {
+    height: 80px;
+    background: rgb(90, 165, 156);
+}
+.footer {
+    margin-top: 20px;
+}
